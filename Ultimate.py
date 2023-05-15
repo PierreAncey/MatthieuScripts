@@ -59,7 +59,7 @@ path = r"C:\Users\Pierre\Documents\Unity\DataTest"
 nbParticipants = 300
 
 # Number of try (set to number of participants as a default)
-nbTry = 20
+nbTry = 300
 
 # Nom du fichier csv contenant la correspondance pour l'anonmymisation
 csvName = "Correspondance.csv"

@@ -18,7 +18,7 @@ totalMoneyToGive = 20
 # Path to the folder where data is stored
 path = r"C:\Users\Pierre\Documents\Unity\DataTest"
 
-generate = True
+generate = False
 
 
 ######################################################################################################################
