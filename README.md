@@ -21,13 +21,13 @@ Data
     └───Voices
 ```
 
-## 2. Ultimate.py
+## 2. generate_observer_folders.py
 ### How to use
 Please specify the value of the variable **path** under *Settings* in the script to where your "Data" folder is.
 
 Then, run the following command in the terminal:
 ```
-python Ultimate.py
+python generate_observer_folders.py
 ```
 
 ### When to use
@@ -40,13 +40,13 @@ It will create the folders for the observers with anonymous videos (The real vid
 - Each video must be seen once
 
 
-## 3. results.py
+## 3. detect_money.py
 ### How to use
 Please specify the value of the variable **path** under *Settings* in the script to where your "Data" folder is.
 
 Then, run the following command in the terminal:
 ```
-python results.py
+python detect_money.py
 ```
 
 ### When to use
