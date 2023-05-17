@@ -16,7 +16,9 @@ After having downloaded the data from Switch Drive.
 For each participant folder, it will modify the contained files so that they have the same name as the folder. Finally, it will create a new structure of folders and files (see under) and move the modified files to the new structure according to their extension.
 
 Data
+
     ├───Animations
+    
     └───Voices
 
 
